@@ -4,4 +4,5 @@
 di er ci
 void f(){
     cout<<"bl";
+    cout<<"bl";
 }
