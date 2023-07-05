@@ -5,3 +5,6 @@ di er ci
 void f(){
     cout<<"main";
 }
+int main(){
+    cout<<"hello main";
+}
